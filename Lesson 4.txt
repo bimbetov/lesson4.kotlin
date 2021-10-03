@@ -1,0 +1,6 @@
+Lesson 4.
+1) A constructor
+2) Interface and abstract classes can be instantiated directly.
+3) Nosubclass
+4) val (name4, specieas4, colors4) = Fish(“Harry”, “halibut”)
+5) An abstract Caretaker class from which you can create different types of caretakers.
